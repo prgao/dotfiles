@@ -18,7 +18,6 @@ colorscheme molokai
 
 " vim-slime
 let g:slime_target = "tmux"
-let g:slime_paste_file = "$HOME/.slime_paste"
 let g:slime_paste_file = tempname()
 let g:slime_python_ipython = 1
 
