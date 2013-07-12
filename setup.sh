@@ -1,3 +1,5 @@
+#!/usr/bin/sh
+
 cd vim/bundle
 #vim-slime
 git clone git://github.com/jpalardy/vim-slime.git
