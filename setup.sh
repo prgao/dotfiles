@@ -22,3 +22,6 @@ cd command-t/ruby/command-t
 ruby extconf.rb
 make
 cd ../../../
+
+#NERDCommenter
+git clone git://github.com/scrooloose/nerdcommenter.git
