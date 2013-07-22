@@ -25,3 +25,9 @@ cd ../../../
 
 #NERDCommenter
 git clone git://github.com/scrooloose/nerdcommenter.git
+
+#linking
+cd ../../
+ln -s vimrc ~/.vimrc
+ln -s vim ~/vim
+ln -s tmux.conf ~/tmux.conf

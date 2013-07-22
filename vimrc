@@ -12,6 +12,9 @@ set shiftwidth=4
 set wrap
 set hlsearch
 
+" quicktask
+au BufRead,BufNewFile task set filetype=quicktask
+
 " color scheme
 let g:molokai_original=1
 colorscheme molokai
