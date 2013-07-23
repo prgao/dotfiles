@@ -12,6 +12,12 @@ set shiftwidth=4
 set wrap
 set hlsearch
 
+" code folding
+set foldmethod=indent
+set foldnestmax=10
+set nofoldenable
+set foldlevel=1
+
 " quicktask
 au BufRead,BufNewFile task set filetype=quicktask
 
