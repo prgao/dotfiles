@@ -3,7 +3,8 @@ filetype plugin indent on
 
 syntax on
 set number
-set autoindent
+"set autoindent
+set cindent
 set si
 set expandtab
 set tabstop=4

@@ -26,6 +26,9 @@ cd ../../../
 #NERDCommenter
 git clone git://github.com/scrooloose/nerdcommenter.git
 
+#Tabular
+git clone git://github.com/godlygeek/tabular.git
+
 #linking
 cd ../../
 ln -s vimrc ~/.vimrc
