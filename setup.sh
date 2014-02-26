@@ -16,6 +16,9 @@ git clone git://github.com/scrooloose/nerdtree.git
 #scala highlighting
 git clone git://github.com/derekwyatt/vim-scala.git
 
+# syntastic
+git clone https://github.com/scrooloose/syntastic.git
+
 #command-T fuzzy search
 git clone git://git.wincent.com/command-t.git
 cd command-t/ruby/command-t
