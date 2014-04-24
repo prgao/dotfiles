@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-sudo apt-get install vim-nox git
+sudo apt-get install vim-nox fish
 
 cd vim/bundle
 #vim-slime
