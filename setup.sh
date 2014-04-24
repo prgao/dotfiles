@@ -1,5 +1,7 @@
 #!/usr/bin/sh
 
+sudo apt-get install vim-nox git
+
 cd vim/bundle
 #vim-slime
 git clone git://github.com/jpalardy/vim-slime.git
@@ -34,6 +36,6 @@ git clone git://github.com/godlygeek/tabular.git
 
 #linking
 cd ../../
-ln -s vimrc ~/.vimrc
-ln -s vim ~/vim
-ln -s tmux.conf ~/tmux.conf
+cp vimrc ~/.vimrc
+cp -rf vim ~/.vim
+cp tmux.conf ~/.tmux.conf
