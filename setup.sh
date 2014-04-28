@@ -22,11 +22,11 @@ git clone git://github.com/derekwyatt/vim-scala.git
 git clone https://github.com/scrooloose/syntastic.git
 
 #command-T fuzzy search
-git clone git://git.wincent.com/command-t.git
-cd command-t/ruby/command-t
-ruby extconf.rb
-make
-cd ../../../
+#git clone git://git.wincent.com/command-t.git
+#cd command-t/ruby/command-t
+#ruby extconf.rb
+#make
+#cd ../../../
 
 #NERDCommenter
 git clone git://github.com/scrooloose/nerdcommenter.git
