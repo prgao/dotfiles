@@ -21,6 +21,9 @@ git clone git://github.com/derekwyatt/vim-scala.git
 # syntastic
 git clone https://github.com/scrooloose/syntastic.git
 
+# julia language highlight
+git clone git://github.com/JuliaLang/julia-vim.git
+
 #command-T fuzzy search
 #git clone git://git.wincent.com/command-t.git
 #cd command-t/ruby/command-t
